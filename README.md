@@ -9,6 +9,10 @@
   <img align="center" alt="Lw-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lw-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lw-Ahk" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/autohotkey.svg">
+  <img align="center" alt="Lw-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+
+
+
 </div>
 
   ##
