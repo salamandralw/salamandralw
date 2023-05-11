@@ -3,8 +3,8 @@
 <div align="left">
   <a href="https://github.com/salamandralw">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salamandralw&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salamandralw&layout=compact&langs_count=7&theme=transparent"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salamandralw&hide_progress=true"/>
+</div><br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lw-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lw-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
