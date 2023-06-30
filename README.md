@@ -1,7 +1,7 @@
 ## Eae eu sou o SalamandraLw 🦎
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salamandralw&theme=transparent)](https://github.com/salamandralw/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salamandralw&layout=donut)](https://github.com/salamandralw/github-readme-stats)
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salamandralw&layout=donut)](https://github.com/salamandralw/github-readme-stats) -->
 
 
 <div align="left">
@@ -24,4 +24,6 @@
   <a href="https://www.linkedin.com/in/lewi-richter-6789671a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/salamandralw/salamandralw/blob/output/github-contribution-grid-snake.svg)
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=salamandralw&bg_color=0d1117&color=ff0000&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
