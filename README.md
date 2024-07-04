@@ -20,7 +20,6 @@
   <a href="https://instagram.com/salamandralw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/vbSDsUMYWV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCz-K_xeHior1-SQiwED_xig" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lewi-richter-6789671a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://livepix.gg/salamandralw" target="_blank"><img src="https://img.shields.io/badge/PIX-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
 
